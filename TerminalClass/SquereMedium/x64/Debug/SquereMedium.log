@@ -1,0 +1,3 @@
+﻿  squere_by_sides.c
+C:\CProject\TerminalClass\SquereMedium\squere_by_sides.c(16,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SquereMedium.vcxproj -> C:\CProject\TerminalClass\x64\Debug\SquereMedium.exe

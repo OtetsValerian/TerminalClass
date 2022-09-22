@@ -1,0 +1,3 @@
+﻿  Timesave.c
+C:\CProject\TerminalClass\Timesave\Timesave.c(16,4): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  Timesave.vcxproj -> C:\CProject\TerminalClass\x64\Debug\Timesave.exe

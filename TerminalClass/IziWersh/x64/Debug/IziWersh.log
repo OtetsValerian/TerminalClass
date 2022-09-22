@@ -1,0 +1,3 @@
+﻿  Treug.c
+C:\CProject\TerminalClass\IziWersh\Treug.c(16,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  IziWersh.vcxproj -> C:\CProject\TerminalClass\x64\Debug\IziWersh.exe

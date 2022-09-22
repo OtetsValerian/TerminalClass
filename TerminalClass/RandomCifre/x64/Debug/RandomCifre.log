@@ -1,0 +1,7 @@
+﻿  Cifre.c
+C:\CProject\TerminalClass\RandomCifre\Cifre.c(9,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\CProject\TerminalClass\RandomCifre\Cifre.c(22,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\CProject\TerminalClass\RandomCifre\Cifre.c(26,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\CProject\TerminalClass\RandomCifre\Cifre.c(49,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\CProject\TerminalClass\RandomCifre\Cifre.c(54,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  RandomCifre.vcxproj -> C:\CProject\TerminalClass\x64\Debug\RandomCifre.exe

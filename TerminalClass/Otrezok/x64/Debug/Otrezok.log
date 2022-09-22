@@ -1,0 +1,6 @@
+﻿  two_point.c
+C:\CProject\TerminalClass\Otrezok\two_point.c(9,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\CProject\TerminalClass\Otrezok\two_point.c(19,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+C:\CProject\TerminalClass\Otrezok\two_point.c(19,10): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "2" имеет тип "int *"
+C:\CProject\TerminalClass\Otrezok\two_point.c(28,11): warning C4477: "printf": в строке форматирования "%.0f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+  Otrezok.vcxproj -> C:\CProject\TerminalClass\x64\Debug\Otrezok.exe

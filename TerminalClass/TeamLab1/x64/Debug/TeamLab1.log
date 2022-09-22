@@ -1,0 +1,3 @@
+﻿  LabFo.c
+C:\CProject\TerminalClass\TeamLab1\LabFo.c(14,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  TeamLab1.vcxproj -> C:\CProject\TerminalClass\x64\Debug\TeamLab1.exe
